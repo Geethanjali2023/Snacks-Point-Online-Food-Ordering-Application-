@@ -1,12 +1,43 @@
-# Yum Yum : A New Way To Order Food Online
+# Snacks Point - Online Food Ordering Website
 
-![Hero-Page](./Assets/Image/README-images/figma.png "Hero Page")
+Snacks Point is a comprehensive culinary website designed to provide users with a delightful culinary experience. The platform features an extensive recipe library, powerful search and filter capabilities, user profiles for enhanced personalization, an informative blog section, and a thriving community forum. The system will be build using a variety of technologies, such as Node.js, Express.js, MongoDB, UI libaries as well as HTML, CSS, and JavaScript.
 
-## Introduction
+## Features
 
-Yum Yum is an online food ordering web-based platform that allows customers to order food from various restaurants and have it delivered to their doorstep. The system typically includes features such as searching and browsing through restaurant menus, adding and removing items from a cart, checking out and placing orders for delivery, tracking the status of orders, and reviewing and rating restaurants and food items. The system will be build using a variety of technologies, such as Node.js, Express.js, MongoDB, UI libaries as well as HTML, CSS, and JavaScript.
+### 1. Homepage
+- **Visual Appeal**: The homepage welcomes visitors with high-quality images of mouthwatering dishes, a vibrant color scheme, and engaging typography, reflecting the essence of the culinary world.
+- **Overview**: Provides a snapshot of the website's offerings, including the recipe library, blog section, and community interaction features.
 
-## Technology Stack
+### 2. Recipe Library
+- **Extensive Collection**: Offers a wide range of recipes covering various cuisines, cooking styles, and dietary preferences.
+- **Detailed Presentation**: Each recipe includes an image, ingredient list, step-by-step instructions, and preparation times.
+- **Navigation**: Easy browsing, with options to search for specific recipes or filter by cuisine, ingredients, and dietary needs.
+
+### 3. Search and Filter Function
+- **User Convenience**: Enables users to find recipes based on keywords, ingredients, dish names, cuisine, dietary requirements, and difficulty levels.
+- **Tailored Discovery**: Assists users in quickly discovering recipes that match their preferences and dietary needs.
+
+### 4. User Profiles
+- **Community Engagement**: Allows registered users to create profiles, save favorite recipes, and interact with the community.
+- **Personalization**: Users can rate, review, and submit their own recipes, enhancing the platform's content.
+
+### 5. Blog Section
+- **Educational Content**: Features articles on cooking, food preparation, kitchen hacks, and culinary stories.
+- **Skill Enhancement**: A valuable resource for users to improve their culinary knowledge and stay abreast of food trends.
+
+### 6. Community Interaction
+- **Forum Engagement**: A platform for users to share experiences, seek advice, and connect with fellow food enthusiasts.
+- **Interactive Activities**: Encourages discussions about recipes, cooking tips, and organizing virtual cooking events.
+
+### 7. Technologies Used
+- **Modern Web Technologies**: Built with HTML, CSS, and JavaScript for a responsive, user-friendly experience.
+- **Reliable Hosting**: Hosted on Netlify, ensuring fast and consistent access across various devices and platforms.
+
+## Summary
+
+Snacks Point is a well-designed culinary website that caters to food enthusiasts of all levels. It stands out for its comprehensive recipe library, user-friendly search features, engaging user profiles, educational blog content, and a dynamic community forum, all underpinned by robust web technologies.
+
+# Technology Stack
 
 - [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 - [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
